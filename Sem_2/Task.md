@@ -7,7 +7,7 @@
 2. Создать файл стилей style.css
 3. Подключить ко всем страницам
 4. Задать стиль
-```
+```css
 a {
     text-decoration: none;
 }
@@ -20,17 +20,56 @@ a {
 1. Разделить экран на 2 части, сделать так чтобы файл стилей располагался справа, а все html файлы были слева
 2. Для всех ссылок меню задать класс (придумать логичное название класса)
 3. Для класса меню задать стили
-```css
-    color: cornflowerblue;
-    font-size: 16px;
-    line-height: 20px;
-```
+    - color: cornflowerblue;
+    - font-size: 16px;
+    - line-height: 20px;
+
 4. Проверить отображения стилей на всех страницах проекта
+5. Для всех заголовков h1 на сайте задать класс и к нему стиль
+    - color: #222222;
+    - font-size: 28px;
+    - line-height: 36px;
+    - font-weight: bold;
 
 
 ## Задание 3.
+1. Для всех параграфов в проекте задать класс
+2. К данному классу задать стили
+    - font-style: normal;
+    - font-weight: 300;
+    - font-size: 18px;
+    - line-height: 30px;
+    - color: #7D7987
+3. На главной странице заголовку h2 задать класс
+4. К данному классу указать стиль
+    - color: coral;
+    - font-style: normal;
+    - font-weight: 700;
+    - font-size: 36px;
+    - line-height: 80px;
+
 
 ## Задание 4.
+
+1. На странице “Оставить заявку” всем полям ввода задать класс
+2. Для полей ввода задать стиль
+   - width: 200px;
+   - height: 30px;
+   - outline: none;
+   - border: 1px solid #ccc;
+   - border-radius: 15px;
+   - font-size: 14px;
+   - line-height: 30px;
+3. Всем кнопкам задать класс
+4. Всем кнопкам указать стиль
+    - width: 100px;
+    - height: 30px;
+    - font-size: 14px;
+    - border: 1px solid #ccc;
+    - border-radius: 10px;
+5. Для всех страниц указать стиль для тега body
+   - font-family: sans-serif;
+
 
 ## Задание 5.
 
