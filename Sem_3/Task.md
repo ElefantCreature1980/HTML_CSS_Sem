@@ -8,7 +8,9 @@
 1. Открыть макет сайта
 2. Разбить представленную на часть лендинга на блоки визуально или с помощью инструмента Rectangle Tool (для наглядности, если нужно)
 
-Пример: https://github.com/ElefantCreature1980/HTML_CSS_Sem/blob/main/Sem_3/Screenshot_1.png
+Пример: 
+
+![image](https://github.com/ElefantCreature1980/HTML_CSS_Sem/assets/143043858/3c2cf880-f253-41c9-b5c8-f0086fb8b7fa)
 
 ## Задача 2.
 
